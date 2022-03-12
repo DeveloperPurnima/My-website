@@ -1,0 +1,164 @@
+body{
+    margin: 0px;
+}
+.banner1{
+    width: 40%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 10%;
+    
+}
+.banner1 img{
+    width: 100%;
+}
+.linkbutton{
+    text-decoration: none;
+    background-color: rgb(241, 8, 86);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-family: 'Fredoka', sans-serif;
+    
+
+}
+.intro{
+
+    font-family: 'Fredoka', sans-serif;
+    font-size: 40px;
+}
+.name{
+    font-size: 50px;
+    color: rgb(241, 8, 86);
+    font-family: 'Roboto', sans-serif;
+
+}
+.think{
+    color: grey;
+}
+.topbanner1{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+section{
+    height: 900px;
+    width: 100%;
+    
+}
+
+.banner2{
+    width: 40%;
+    float: left;
+    margin-top: 15%;
+    margin-left: 10%;
+}
+.banner2 img{
+    width: 100%;
+}
+.description{
+    color: grey;
+}
+.bio{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 35px;
+}
+.topbanner2{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.art{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 35px;
+    font-family: 'Sansita Swashed', cursive;
+}
+.namestyle{
+    color: rgb(241, 8, 86);
+    font-style: italic;
+    font-family: 'Supermercado One', cursive;
+}
+.artimg{
+    width: 25%;
+    float: left;
+    height: 15%;
+   
+}
+.img1{
+    height: 500px;
+    width: 400px; 
+    margin-left: 85px;
+    padding-left: 50px;
+    
+}
+.img2{
+    height: 400px;
+    width: 400px;
+    margin-left: 190px;
+    
+}
+
+.img3{
+    height: 500px;
+    width: 400px;
+    margin-left: 240px;
+    
+    
+}
+.topbanner3{
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.client{
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 30px;
+
+}
+.pd{
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.varsity{
+    text-align: center;
+    color: gray;
+    font-family: 'Maven Pro', sans-serif;
+   
+}
+.probad{
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 17px;
+}
+.footer{
+    text-align: center;
+    color: gray;
+}
+.topbanner4{
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.box{
+  background-color: rgb(241, 8, 86);
+  width: 30%;
+  background-image: linear-gradient(45deg, rgb(243, 134, 152), rgb(250, 6, 67)) ;
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+
+}
+.emailname{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 16px;
+
+}
+.mail{
+    font-family: 'Maven Pro', sans-serif;
+}
+
